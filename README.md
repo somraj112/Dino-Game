@@ -10,9 +10,7 @@ Game over detection 💀
 
 Start & Retry buttons 🔁
 
-Day-Night cycle 🌞🌙
-
-Mobile controls 📱
+Day-Night cycle (every 30 sec) 🌞🌙
 
 Responsive design 💻📱
 
