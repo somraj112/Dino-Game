@@ -111,9 +111,9 @@ startBtn.addEventListener("click", startGame);
 retryBtn.addEventListener("click", () => location.reload());
 
 //increase the speed
-// if (score % 5 === 0 && speed > 1000) {
-//     speed -= 100; 
-//   }
+if (score % 5 === 0 && speed > 1000) {
+    speed -= 100; 
+  }
 
 // day/night mode 
 let isNight = false;
